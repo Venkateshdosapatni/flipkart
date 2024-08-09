@@ -1,0 +1,134 @@
+.m1{
+    background-color:white;
+    width: 1280px;
+    height: 80px;
+    display: inline-block;
+}
+.m1 img{
+    margin-top: 12px;
+    margin-bottom: -15px;
+}
+.m1 button{
+    width: 500px;
+    margin-top: 12px;
+    margin-bottom: -15px;
+}
+.m1 button p{
+    font-size: larger;
+}
+figure{
+    display: inline-block;
+    margin-left: 15px;
+}
+.m2{
+    background-color:white;
+    width: 1280px;
+    height: 150px;
+    display: inline-block;
+}
+figure{
+    display: inline-block;
+}
+.m3{
+    background-color: brown;
+    width: 1280px;
+    height: 200px;
+}
+.m4{
+    background-color:white;
+    width: 1000px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+
+}
+.m41{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    margin: 0px 20px;
+}
+.m42{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px;
+    
+}
+.m43{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px;
+}
+.m44{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px;
+}
+.m55{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px;
+}
+.m66{
+    width: 120px;
+    height: 210px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0px 20px;
+}
+.m5{
+    background-color:white;
+    width: 220px;
+    height: 290px;
+    display: inline-block;
+    vertical-align: top;
+    border: 4px solid black;
+
+}
+.m6{
+    background-color:white;
+    width: 1280px;
+    height: 300px;
+    display: inline-block;
+    vertical-align: top;
+    border: 1px solid black;
+}
+.m61{
+    width: 414px;
+    height: 250px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+
+}
+.m62{
+    width: 414px;
+    height: 250px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+.m63{
+    width: 414px;
+    height: 250px;
+    border: 1px solid black;
+    display: inline-block;
+    vertical-align: top;
+    
+}
